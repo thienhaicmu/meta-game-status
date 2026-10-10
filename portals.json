@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updatedAt": "2026-10-10T03:31:44.618Z",
+  "updatedAt": "2026-10-10T03:31:57.179Z",
   "portals": {
     "hit": {
       "name": "Hitclub",
@@ -19,7 +19,9 @@
       },
       "games": [
         "phom"
-      ]
+      ],
+      "lastError": "https://web.hitclub.fun/ HTTP_404; https://play.hitclub.fun/ HTTP_404; https://v.hitclub.poker/ HTTP_404",
+      "lastErrorAt": "2026-10-10T03:31:57.179Z"
     }
   }
 }
