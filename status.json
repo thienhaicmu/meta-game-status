@@ -1,6 +1,10 @@
 {
   "v": 2,
-  "updatedAt": "2026-10-10T02:00:25.051Z",
-  "revoked": {},
-  "updates": {}
+  "updatedAt": "2026-10-10T02:03:11.688Z",
+  "revoked": {
+    "MG-261010-E2EREV": "E2E"
+  },
+  "updates": {
+    "MG-261010-E2ETST": "u1.Tkrt8kfkzqGueyhE.LHsUmv52H0j_eXAlkVdOHbSIV3yVWEPJW2tbD9y0QWGsq0c8hTIWb7hOin9atwSWd9VuTWyZS3RXOuRSGVF5l6xGB-8-rd_46n2BqQ_XjTGtW2kdSGA_6XvZBmiLKULgYKzKnPPh_qpaqXzo08qYO4tkxku8mK4jcbnLnYkfMD1MuXY0k4pXPzgvTffHNTScr3a5RxNWpCrGi2jZSYw3zp7vPlTntysDAkgdSO2ga-8pBuBIps2EviEKizAUNAlveYb6KPcTM7qSZJUPIjOn2xu-3uRXbaY8ZnOLjbzVWjEQJNFKq9TMZBTT-F-9OISNZzFF8CRe7SmCqpV8VhXmef9dJBLFh98nY-BCS1Ysz92sICbI-j34hDbyg2Ur5v-vVxrrKcydsPK-BzGgKL3-4ogFSyhUtrDTn87Ay2A8UNfoeMC8IpAspLG1iv7z9-l4f06BhiLU1cPxNrx3o3nJ8TfNhugQuoGkxAg2TKvghvPtecWSkybpxS7DhvhInw2hD0817PvLSuFmDZvYaBlWuUy_vVIYXq4_63QMb1q393FC04kzuvTnsf3EhRPcOgFeNTsXtf58-QQPyzwmyI5OBPYYoAXjLXZfNarW29daqfmTGdOWP4K4_tid4TyaPNntsjo4UNBo.zNIKzaV2BKiHx94tT04dxg"
+  }
 }
