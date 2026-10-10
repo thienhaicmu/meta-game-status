@@ -1,0 +1,25 @@
+{
+  "v": 1,
+  "updatedAt": "2026-10-10T03:31:44.618Z",
+  "portals": {
+    "hit": {
+      "name": "Hitclub",
+      "label": "hitclub",
+      "anchors": [
+        "https://web.hitclub.fun/",
+        "https://play.hitclub.fun/",
+        "https://v.hitclub.poker/"
+      ],
+      "fingerprint": {
+        "html": [
+          "<title>[^<]*HITCLUB",
+          "src/settings\\.[0-9a-f]+\\.js",
+          "main\\.[0-9a-f]+\\.js"
+        ]
+      },
+      "games": [
+        "phom"
+      ]
+    }
+  }
+}
